@@ -50,7 +50,7 @@ function App() {
 
           <p ref={ref} className={`${inView ? "animate-up" : ""} cta_content`}>
             <span className="first_span"> Stand a chance to win </span>{" "}
-            <span className="money">N3,000,000</span> everyday for the next 5
+            <span className="money">N3,000,000</span> everyday for the next 5 days
           </p>
 
           <Card ref={ref} className={`${inView ? "animate-up" : ""}`}>
